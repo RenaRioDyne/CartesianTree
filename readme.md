@@ -1,1 +1,1 @@
-An implementation of the algorithms in the paper "On the longest common Cartesian substring problem," published in The Computer Journal, April 2023.
+An implementation of the algorithms in the paper "On the longest common Cartesian substring problem," published in The Computer Journal, April 2023. The paper was written by Simone Faro, Thierry Lecroq, Kunsoo Park, and Stefano Scafiti.
